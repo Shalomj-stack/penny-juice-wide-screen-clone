@@ -1,0 +1,228 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #eee;
+}
+
+.cc_body {
+  background-image: url("https://le-cdn.hibuwebsites.com/767557674d6e4362acfa088c81c84a89/dms3rep/multi/opt/WV8QiL1-2880w.jpg");
+  background-repeat: no-repeat;
+  background-position-y: 2rem;
+  padding-top: 37rem;
+  overflow-x: hidden;
+}
+
+header {
+  background-color: #66feff;
+  text-align: center;
+  position: fixed;
+  top: 0.1rem;
+  z-index: 3;
+  width: 100%;
+}
+
+header p,
+h4 {
+  font-weight: bolder;
+}
+
+.nav-container span {
+  font-size: 25px;
+}
+
+.navbar {
+  padding-left: 10rem;
+}
+
+a:hover {
+  color: red;
+}
+
+/* Order */
+
+.order {
+  text-align: center;
+  padding: 120px 0;
+  background-image: url("https://cdn2.hubspot.net/hubfs/5476270/iStock-1125881895.jpg");
+  margin-top: 6rem;
+}
+
+.order-title {
+  background-color: rgb(233, 217, 233);
+  color: rgb(24, 77, 133);
+  margin: 0 auto 2rem;
+  max-width: 80%;
+  padding: 10px 0;
+}
+
+.order button {
+  width: 300px;
+}
+
+/* Rainbows Area */
+
+.rainbows {
+  padding: 70px 100px;
+  background-color: rgba(255, 255, 135, 1);
+}
+
+.rainbows button,
+.healthy-juice button,
+.juice-showcase button {
+  width: 250px;
+  border-radius: 10px;
+}
+
+.rainbows img {
+  width: 85%;
+}
+
+.rainbow-box img {
+  width: 90%;
+}
+
+.rainbows p,
+.healthy-juice p {
+  max-width: 80%;
+}
+
+.healthy-juice {
+  background-color: #b3ff99;
+  padding: 70px 100px;
+}
+
+.healthy-juice h3 {
+  text-align: center;
+}
+
+.healthy-juice img {
+  width: 90%;
+}
+
+/* Socials */
+
+.contact {
+  background-color: #3596fd;
+  padding: 15px 0;
+  text-align: center;
+  overflow-x: hidden;
+}
+
+.contact i {
+  color: #fff;
+}
+
+.contact h5 {
+  font-size: 25px;
+  color: #fff;
+  font-weight: normal;
+}
+
+.socials {
+  background-color: #66feff;
+  padding: 2rem 100px;
+}
+
+.socials p {
+  margin: 0.3rem 0;
+}
+
+.socials a {
+  color: #000;
+}
+
+.socials span {
+  /* line-height: 0.5; */
+  font-weight: bold;
+}
+
+.socials i {
+  background-color: #fff;
+}
+
+.socials button {
+  font-size: 13px;
+  font-weight: bold;
+  height: 24px;
+  width: 100px;
+  border: 0.5px solid rgb(170, 169, 169);
+  display: inline-block;
+}
+
+.socials .col-9 p {
+  font-size: 12px;
+  display: inline-block;
+}
+
+/* Footer */
+
+footer {
+  background-image: url("https://le-cdn.hibuwebsites.com/767557674d6e4362acfa088c81c84a89/dms3rep/multi/opt/PAPER+CUT+OUT+DOLLS-2efe01df-1920w.jpg");
+  background-repeat: no-repeat;
+  font-size: 12px;
+  font-weight: lighter;
+  padding-top: 100px;
+  text-align: center;
+}
+
+.footer-nav {
+  margin-bottom: 0.5rem;
+}
+
+.footer-nav a {
+  display: inline-block;
+  border-right: 1px solid black;
+  padding: 0 5px;
+  color: inherit;
+}
+
+.juice-showcase {
+  background-color: rgba(255, 255, 135, 1);
+  padding: 70px 130px;
+}
+.juice-showcase img {
+  margin-bottom: 1rem;
+}
+
+.juice-showcase h5 {
+  line-height: 2;
+  font-weight: bolder;
+  font-size: 25px;
+}
+
+.juice-showcase h4 {
+  font-weight: normal;
+}
+
+.juice-showcase ul {
+  margin: 0 0 2.5rem 2.5rem;
+}
+
+.juice-showcase_right h3 {
+  background-color: rgba(254, 0, 0, 1);
+  color: #fff;
+  width: 310px;
+  height: 130px;
+  padding: 10px 7px;
+  font-weight: 400;
+  font-size: 30px;
+  margin-bottom: 2rem;
+  text-align: center;
+}
+
+.juice-showcase_right a {
+  color: #fff;
+  text-decoration: underline;
+}
+
+.juice-showcase_right p {
+  width: 310px;
+  padding: 10px 40px;
+  border: 1px solid rgb(51, 51, 51);
+  font-weight: bold;
+  text-align: center;
+}
